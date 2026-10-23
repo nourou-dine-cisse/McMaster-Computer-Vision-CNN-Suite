@@ -1,0 +1,15 @@
+# Datasets (large binary pickles)
+*.p
+*.zip
+*.tar.gz
+traffic-signs-data/
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
